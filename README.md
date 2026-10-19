@@ -1,60 +1,65 @@
-<br clear="both">
-
-<h1 align="center">Hola, soy Kevin</h1>
-
-###
-
-<p align="left">Realmente no sé que poner acá wacho</p>
-
-###
+![Kevin — Desarrollador Full Stack](assets/banner.svg)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+
+**Frontend, backend y datos. Una visión completa del desarrollo web.**
+
+[Explorar repositorios](https://github.com/Kevin11ts?tab=repositories) · [Contribuciones](https://github.com/Kevin11ts?tab=overview) · [Conectar](#conecta-conmigo)
+
 </div>
 
-###
+## Hola, soy Kevin
 
-<div align="center">
-  <a href="https://www.facebook.com/kevin.sandoval.153779/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/k_alexts1/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-</div>
+Soy **desarrollador full stack**. Mi trabajo abarca las distintas capas de una aplicación web: la interfaz, la lógica del servidor y las bases de datos.
 
-###
+Mi stack incluye **TypeScript, Angular y Node.js**, junto con **PostgreSQL, MySQL y Docker**. También exploro otras áreas del software con Java, Linux y Arduino.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kevin11ts/Kevin11ts/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kevin11ts/Kevin11ts/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kevin11ts/Kevin11ts/output/pacman-contribution-graph.svg">
-</picture>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>01 / Frontend</h3>
+      <p>La interacción entre las personas y el software.</p>
+      <p><strong>Angular · TypeScript<br>JavaScript · HTML5</strong></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>02 / Backend</h3>
+      <p>La lógica que conecta la interfaz con los datos.</p>
+      <p><strong>Node.js · TypeScript<br>JavaScript</strong></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>03 / Datos y entorno</h3>
+      <p>Las herramientas que acompañan a la aplicación.</p>
+      <p><strong>PostgreSQL · MySQL<br>Docker · Linux · Git</strong></p>
+    </td>
+  </tr>
+</table>
 
-###
+## Mi caja de herramientas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,angular,nodejs,html,postgres,mysql,docker,linux,git&perline=5" alt="TypeScript, JavaScript, Angular, Node.js, HTML5, PostgreSQL, MySQL, Docker, Linux y Git" />
+</p>
+
+<details>
+  <summary>Más tecnologías</summary>
+  <br>
+  <p>Java · Arduino · GitHub · Visual Studio Code</p>
+</details>
+
+## Código y proyectos
+
+Detrás de cada repositorio hay una parte de mi recorrido como desarrollador. Explora mi trabajo, revisa el código y conoce las tecnologías que utilizo.
+
+**[Ver mis repositorios →](https://github.com/Kevin11ts?tab=repositories)**
+
+<!-- Incorporar proyectos destacados con enlaces, contribución personal y resultados confirmados por Kevin. -->
+
+## Conecta conmigo
+
+Para conocer mi trabajo, visita mi [perfil de GitHub](https://github.com/Kevin11ts). También puedes encontrarme en mis redes personales:
+
+[Instagram ↗](https://www.instagram.com/k_alexts1/) · [Facebook ↗](https://www.facebook.com/kevin.sandoval.153779/)
+
+---
+
+<p align="center"><sub>Kevin / Full Stack Developer</sub></p>
